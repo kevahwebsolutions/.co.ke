@@ -1,37 +1,34 @@
-# Prep guide: Finance & Operations, Q1 review and Q2 outlook
+# Prep guide (v2): Town Hall, Finance & Operations
 
-## Fix before you present (tonight)
-1. **eNPS conflict (HR report):** the summary says eNPS 40; the metrics table and conclusion say -75%. Slide 11 uses -75. Ask HR which is right.
-2. **Sales report vs ledger:** totals agree within KES 36 (3,786,348 vs 3,786,384), but the line split differs.
-   - Elimu Pepe: 819,797 (report) vs 135,982 (ledger)
-   - Devices: 107,390 vs 777,372
-   - eBooks: 1,359,161 vs 1,373,030
-   Likely tablets booked under Devices. Find out, and update slides 3, 4 and 8.
-3. **Payroll control accounts:** about KES 4.2M in PAYE, NSSF, NHIF, Housing Levy, HELB; no Q1 movement on most. Confirm with payroll whether this is arrears or posting timing before slide 7 or 8 is shown.
-4. **Q2 targets:** none in the pack. Get them from Sales; fill the last column on slide 13.
-5. **P&L basis:** slide 5 is a management view from the chart of accounts (Q1 net change, before tax and closing entries). Say "unaudited".
+Deck: `Finance_Operations_Q1_Review_Q2_Outlook_v2.pptx` (16 slides, speaker notes on each). Follows the Town Hall guide: 1 Strategy, 2 Q1 performance, 3 Q2 priorities.
 
-## Numbers to know cold
-- Sales 3,786,348 vs target 5,973,500 = 63.4%; gap 2,187,152
-- Elimu Pepe + Devices gap = 4,123,313
-- MTN Academy 1.5M = 39.6% of sales, unbudgeted
-- Gross profit 2,138,762 (56.5%); operating costs 5,202,977; result (3,064,215)
-- Non-cash amortisation/depreciation about 2.03M, so cash-basis loss about 1.04M
-- Staff costs 2,105,859 = 55.6% of sales
-- Cash 768K; net receivables 4.03M; trade payables 11.77M; current liabilities 31.21M
-- Headcount 15 to 17 (12 permanent, 5 consultants); BA 3 of 5, suspended
+## Confirm before presenting
+1. **eNPS:** strategy measure is eNPS of 50 or more. HR report says 40 (summary) and -75 (table). Both are below target; slide 5 says "below target" without a number. Ask HR which is right.
+2. **Survey date:** KPI status says survey completed end of August; HR report says conducted in September (questionnaire delivered 28 August). Use one date.
+3. **Strategy file:** only the KPI status PDF arrived, so objectives and measures (1.4, 4.1 to 4.4, F2) come from it. Check wording against the strategy.
+4. **Owners, dates and measures** on the Q2 execution slide (slide 14) are my proposals. Edit them.
+5. **4.1.3 manager feedback training:** no recovery step recorded. Agree one.
+6. **Sales report vs ledger:** totals match within KES 36, but the line split differs (Elimu Pepe KES 0.82M vs 0.14M; Devices KES 0.11M vs 0.78M). Resolve or be ready to explain.
+7. **Payroll and statutory balances** (about KES 4.2M): confirm status before slide 10 is shown.
+8. **I fixed two items in your edits:** headcount movement "+4" is now "+2" (15 to 17); "gross receivables KES 4.03M" is now "KES 5.33M gross (KES 4.03M net)". I also restored the missing title on the operating-costs slide.
+
+## Numbers to know
+- KPI actions: 21 total, 19 due in Q1. 2 complete, 12 on plan, 5 off plan with no recovery plan, 2 not due (Q2, Q3). 14 of 19 delivered or on plan = 74%.
+- Q1 sales KES 3,786,348 vs KES 5,973,500 target (63.4%)
+- Q2 target KES 28,527,848 (Oct 8.19M, Nov 9.12M, Dec 11.22M) = 7.5 times Q1 sales
+- Q2 by line: Elimu Pepe 13.626M (48%), Devices 4.9065M, Campus 3.9065M, eBooks 3.147M, MTN Academy 2.942M
+- FY26/27 target KES 126M; Q1 delivered 3%
+- Collections: over 80% of receivables under 90 days overdue (Sept 2026); target 95% collections discipline
+- Q1 result (management view, unaudited): sales 3.79M, gross profit 2.14M (56.5%), operating costs 5.20M, loss 3.06M; about 1.04M before non-cash items
 
 ## Likely questions
-- Why did Elimu Pepe miss by 79%? (get Sales' answer)
+- How will Elimu Pepe go from KES 0.8M to KES 13.6M in a quarter? What is the pipeline?
 - Is MTN Academy recurring?
-- Are statutory payroll balances overdue? Penalty exposure?
-- How do we fund payables of 11.77M on 0.77M cash?
-- Why resume or stop BA hiring, and what do the Safaricom outlets earn?
+- Why are 5 actions off plan with no recovery plan, and who owns each?
+- Are statutory balances overdue? Penalty exposure?
+- How do we fund payables of KES 11.77M on KES 0.77M cash?
 - What is the response to the pay feedback in the survey?
 
 ## Handle with care
-- Staff-level sales (one person at 18% of target) is deliberately not in the deck. Keep it for a private conversation.
-- Survey response was 50%; call scores indicative.
-
-## Timing (about 25 minutes)
-Slides 1-4 sales: 6 min. 5-8 finance: 8 min. 9-11 people: 5 min. 12-15 Q2 and decisions: 6 min. Speaker notes are on every slide.
+- Staff-level sales results are not in the deck. Keep them private.
+- Survey response was 50%; treat scores as indicative.
