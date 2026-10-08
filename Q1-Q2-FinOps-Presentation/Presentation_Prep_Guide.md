@@ -1,6 +1,6 @@
 # Prep guide (v2): Town Hall, Finance & Operations
 
-Deck: `Finance_Operations_Q1_Review_Q2_Outlook_v3.pptx` (14 slides, speaker notes on each; built on your edited v2). Follows the Town Hall guide: 1 Strategy, 2 Q1 performance, 3 Q2 priorities.
+Deck: `Finance_Operations_Q1_Review_Q2_Outlook_v4.pptx` (14 slides, speaker notes on each; built on your edited v3). Follows the Town Hall guide: 1 Strategy, 2 Q1 performance, 3 Q2 priorities.
 
 ## Confirm before presenting
 1. **eNPS:** strategy measure is eNPS of 50 or more. HR report says 40 (summary) and -75 (table). Both are below target; slide 5 says "below target" without a number. Ask HR which is right.
@@ -37,3 +37,9 @@ Deck: `Finance_Operations_Q1_Review_Q2_Outlook_v3.pptx` (14 slides, speaker note
 - Slide 11: Q2 sales target by line and month (KES 28,527,848; Oct 8,185,000, Nov 9,121,000, Dec 11,221,848) with Q1 achieved and step-up.
 - Slide 12: Q2 execution table restored (deliverable, owner, by when, measure, what we need). Delete it if you prefer; owners and dates are proposals.
 - Slide 2: removed the empty column.
+
+## v4 changes: HR & Operations (slides 7 to 9)
+- Slide 7: objective tracker from your screenshot. Check: tracker marks staff satisfaction Completed but the result is below target (satisfaction 40%); KPI status says the bonus rules still need a formal staff briefing; the old '31 Aug follow-up' comment was replaced with the KPI status (OKRs and SLAs published).
+- Slide 8: headcount 15 to 17, BA recruitment 3 of 5 (suspended), 1 developer hired.
+- Slide 9: survey results and people KPIs (10 of 15 due delivered or on plan; 5 off plan).
+- eNPS: slide 9 says 'Below 50' because HR gives -75 (table) and 40 (summary). Confirm.
